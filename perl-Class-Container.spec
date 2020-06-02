@@ -4,7 +4,7 @@
 #
 Name     : perl-Class-Container
 Version  : 0.13
-Release  : 16
+Release  : 17
 URL      : https://cpan.metacpan.org/authors/id/K/KW/KWILLIAMS/Class-Container-0.13.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/K/KW/KWILLIAMS/Class-Container-0.13.tar.gz
 Summary  : 'Glues object frameworks together transparently'
@@ -101,4 +101,4 @@ find %{buildroot} -type f -name '*.bs' -empty -exec rm -f {} ';'
 
 %files perl
 %defattr(-,root,root,-)
-/usr/lib/perl5/vendor_perl/5.30.2/Class/Container.pm
+/usr/lib/perl5/vendor_perl/5.30.3/Class/Container.pm
