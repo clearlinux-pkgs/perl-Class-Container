@@ -7,7 +7,7 @@
 #
 Name     : perl-Class-Container
 Version  : 0.13
-Release  : 33
+Release  : 34
 URL      : https://cpan.metacpan.org/authors/id/K/KW/KWILLIAMS/Class-Container-0.13.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/K/KW/KWILLIAMS/Class-Container-0.13.tar.gz
 Summary  : 'Glues object frameworks together transparently'
